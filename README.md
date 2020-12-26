@@ -5,6 +5,7 @@
 -  How to run?
 -  Motivation for this project?
 -  Results
+-  Contact Me via Linkedin
 
 ## 1> How to run?
 - Open the UBER - CANCELATION ANALYSIS_MAIN (1).ipynb
@@ -16,3 +17,5 @@
 
 ## 3> Results:
 - Results are given in this <a href="https://kaushiktummala55.medium.com/cab-cancellation-prediction-using-data-science-and-machine-learning-b72ffd46c53c">Medium article!</a>
+
+## 4> Connect Me via Linkedin <a href="https://www.linkedin.com/in/kaushik-tummalapalli/">Here!</a>
