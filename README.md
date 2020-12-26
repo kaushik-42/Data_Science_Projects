@@ -18,4 +18,4 @@
 ## 3> Results:
 - Results are given in this <a href="https://kaushiktummala55.medium.com/cab-cancellation-prediction-using-data-science-and-machine-learning-b72ffd46c53c">Medium article!</a>
 
-## 4> Connect Me via Linkedin <a href="https://www.linkedin.com/in/kaushik-tummalapalli/">Here!</a>
+### 4> Connect Me via Linkedin <a href="https://www.linkedin.com/in/kaushik-tummalapalli/">Here!</a>
