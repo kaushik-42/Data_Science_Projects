@@ -6,6 +6,7 @@
 -  Motivation for this project?
 -  Business understanding
 -  Results
+-  Licensing, Authors, Acknowledgements
 -  Contact Me via Linkedin
 
 ## 1> How to run?
