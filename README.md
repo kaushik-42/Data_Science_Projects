@@ -33,4 +33,9 @@
 ## 4> Results:
 - Results are given in this <a href="https://kaushiktummala55.medium.com/cab-cancellation-prediction-using-data-science-and-machine-learning-b72ffd46c53c">Medium article!</a>
 
-### 5> Contact Me via Linkedin <a href="https://www.linkedin.com/in/kaushik-tummalapalli/">Here!</a>
+## 5> Licensing, Authors, Acknowledgements
+-Must give credit to Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available <a href="https://www.kaggle.com/c/predicting-cab-booking-cancellations/data">Medium article!</a>. Otherwise, feel free to use the code here as you would like!
+
+### 6> Contact Me via Linkedin <a href="https://www.linkedin.com/in/kaushik-tummalapalli/">Here!</a>
+
+
