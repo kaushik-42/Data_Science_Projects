@@ -3,8 +3,8 @@
 ## Outline of the files in this repo:
 - app
     - template
-    - master.html 
-    - go.html  
+        - master.html 
+        - go.html  
     - run.py  
 
 - data
