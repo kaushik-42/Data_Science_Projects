@@ -8,6 +8,7 @@
 -  Results
 -  Licensing, Authors, Acknowledgements
 -  Contact Me via Linkedin
+-  Project 2: Disaster Response pipeline File
 
 ## 1> How to run?
 - Open the UBER - CANCELATION ANALYSIS_MAIN (1).ipynb
@@ -38,5 +39,3 @@
 - Must give credit to Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available <a href="https://www.kaggle.com/c/predicting-cab-booking-cancellations/data"> here!</a>. Otherwise, feel free to use the code here as you would like!
 
 ### 6> Contact Me via Linkedin <a href="https://www.linkedin.com/in/kaushik-tummalapalli/">Here!</a>
-
-# Project 2: Disaster Response pipeline
