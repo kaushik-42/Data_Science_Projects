@@ -1,6 +1,6 @@
 # Disaster Response Pipeline Project
 
-About: This project data is provided by Figure 8(Udacity Partner) which has the pre-labelled tweets and text messages from real life disasters. So in this project we analyze the tweets and categorize the tweets into 36 columns like water, request, etc. We have to repair the present data with an ETL pipeline and build an ML pipeline to build a supervised learning model which can accurately categorize the new tweets.
+This project data is provided by Figure 8(Udacity Partner) which has the pre-labelled tweets and text messages from real life disasters. So in this project we analyze the tweets and categorize the tweets into 36 columns like water, request, etc. We have to repair the present data with an ETL pipeline and build an ML pipeline to build a supervised learning model which can accurately categorize the new tweets. The outline of the repo is given below.
 
 ## Outline of the files in this repo:
 - app
