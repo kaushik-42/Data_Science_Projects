@@ -35,7 +35,7 @@ This project data is provided by Figure 8(Udacity Partner) which has the pre-lab
 
 3. Go to http://0.0.0.0:3001/
 
-![](/Images/Files structure.png)
+![](Images/Result%20for%20our%20message.png)
 
 ### Example 
 
