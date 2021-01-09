@@ -71,6 +71,42 @@ def index():
                     'title': "Genre"
                 }
             }
+        },
+        {
+            'data': [
+                Bar(
+                    x=label_names,
+                    y=label_counts
+                )
+            ],
+
+            'layout': {
+                'title': 'The Count of each category of message',
+                'yaxis': {
+                    'title': "Count"
+                },
+                'xaxis': {
+                    'title': "Category"
+                }
+            }
+        },
+        {
+            'data': [
+                Bar(
+                    x=msg_ids,
+                    y=msg_length
+                )
+            ],
+
+            'layout': {
+                'title': 'The Length of each message',
+                'yaxis': {
+                    'title': "Length"
+                },
+                'xaxis': {
+                    'title': "ID"
+                }
+            }
         }
     ]
     
