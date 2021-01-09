@@ -24,7 +24,7 @@ This project data is provided by Figure 8(Udacity Partner) which has the pre-lab
 -  Instructions
 -  Contact Me via Linkedin
 
-### Instructions:
+## Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
