@@ -41,6 +41,7 @@ Type a message such as: My house is full of water! Please help
 
 ![](Images/Result%20for%20our%20message.png)
 
+### More Improvements - If you want to keep working on your project you can try a wide hyperparameter range optimization using BayesianOptimization on XGBoost model (or your own model). This is a pretty powerful combination. There is a good article that explains it well here: https://aiinpractice.com/xgboost-hyperparameter-tuning-with-bayesian-optimization/
 
  
 ### Contact Me via Linkedin <a href="https://www.linkedin.com/in/kaushik-tummalapalli/">Here!</a>
