@@ -9,7 +9,7 @@
 -  Licensing, Authors, Acknowledgements
 -  Contact Me via Linkedin
 -  Project 2: Disaster Response pipeline File
--  Project 3: 
+-  Project 3: Recommendations with IBM
 
 ## 1> How to run?
 - Open the UBER - CANCELATION ANALYSIS_MAIN (1).ipynb
