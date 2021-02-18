@@ -33,7 +33,7 @@
 - What will be my Cab cancellation rate If I want to book the cab at 6:30?
 
 ## 4> Results:
-- Results are given in this <a href="">Medium article!</a>
+- Results are given in this <a href="https://kaushiktummala55.medium.com/starbucks-capstone-challenge-using-funksvd-b08f9f8f983b">Medium article!</a>
 
 ## 5> Licensing, Authors, Acknowledgements
 - Must give credit to Udacity and Starbucks for the data.Otherwise, feel free to use the code here as you would like!
