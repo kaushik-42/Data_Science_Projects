@@ -8,7 +8,7 @@
 -  Results
 -  Licensing, Authors, Acknowledgements
 -  Contact Me via Linkedin
--  Current : Cab Cancellation Prediction
+-  Current Project: Cab Cancellation Prediction
 -  Project 2: Disaster Response pipeline File
 -  Project 3: Recommendations with IBM
 -  Project 4: Starbucks Capstone Project
